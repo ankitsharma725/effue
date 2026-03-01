@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "1772369331934",
+        "orderItems": [
+            {
+                "name": "Test Item",
+                "quantity": 1,
+                "image": "/img.jpg",
+                "price": 99,
+                "product": "123"
+            }
+        ],
+        "user": "guest",
+        "shippingAddress": {
+            "address": "1",
+            "city": "2",
+            "postalCode": "3",
+            "country": "IN"
+        },
+        "paymentMethod": "COD",
+        "totalPrice": 99,
+        "isPaid": false,
+        "isDelivered": false,
+        "createdAt": "2026-03-01T12:48:51.934Z"
+    }
+]

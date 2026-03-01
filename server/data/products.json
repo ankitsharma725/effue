@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "name": "Effue Noir Elixir",
+        "price": 1999,
+        "description": "Bold oud, amber & dark vanilla for confident men",
+        "image": "/assets/noir.jpg",
+        "category": "Oriental",
+        "gender": "Men",
+        "tag": "Bestseller",
+        "gallery": [
+            "/assets/noir.jpg",
+            "/assets/noir.jpg",
+            "/assets/noir.jpg"
+        ],
+        "sizes": [
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Black Pepper",
+                "Cardamom"
+            ],
+            "middle": [
+                "Oud",
+                "Amber",
+                "Cinnamon"
+            ],
+            "base": [
+                "Dark Vanilla",
+                "Sandalwood",
+                "Musk"
+            ]
+        },
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "name": "Effue Rose Élite",
+        "price": 1799,
+        "description": "Rose petals, jasmine & white musk for elegant women",
+        "image": "/assets/rose.jpg",
+        "category": "Floral",
+        "gender": "Women",
+        "tag": "Popular",
+        "gallery": [
+            "/assets/rose.jpg",
+            "/assets/rose.jpg",
+            "/assets/rose.jpg"
+        ],
+        "sizes": [
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "notes": {
+            "top": [
+                "Rose Petals",
+                "Bergamot",
+                "Pink Pepper"
+            ],
+            "middle": [
+                "Jasmine",
+                "Peony",
+                "Lily of the Valley"
+            ],
+            "base": [
+                "White Musk",
+                "Cedarwood",
+                "Vanilla"
+            ]
+        },
+        "inStock": true
+    },
+    {
+        "id": 3,
+        "name": "Effue Royal Oud",
+        "price": 2499,
+        "description": "Premium Arabian oud, saffron & sandalwood",
+        "image": "/assets/royal.jpg",
+        "category": "Oud",
+        "gender": "Unisex",
+        "tag": "Premium",
+        "gallery": [
+            "/assets/royal.jpg",
+            "/assets/royal.jpg",
+            "/assets/royal.jpg"
+        ],
+        "sizes": [
+            "50ml",
+            "100ml"
+        ],
+        "notes": {
+            "top": [
+                "Saffron",
+                "Nutmeg",
+                "Lavender"
+            ],
+            "middle": [
+                "Arabian Oud",
+                "Patchouli",
+                "Rose"
+            ],
+            "base": [
+                "Sandalwood",
+                "Amber",
+                "Leather"
+            ]
+        },
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "name": "Effue Citrus Luxe",
+        "price": 1599,
+        "description": "Fresh lemon zest, bergamot & aquatic notes",
+        "image": "/assets/citrus.jpg",
+        "category": "Fresh",
+        "gender": "Unisex",
+        "tag": "New",
+        "gallery": [
+            "/assets/citrus.jpg",
+            "/assets/citrus.jpg",
+            "/assets/citrus.jpg"
+        ],
+        "sizes": [
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "notes": {
+            "top": [
+                "Lemon Zest",
+                "Bergamot",
+                "Grapefruit"
+            ],
+            "middle": [
+                "Aquatic Notes",
+                "Geranium",
+                "Rosemary"
+            ],
+            "base": [
+                "White Musk",
+                "Cedar",
+                "Ambergris"
+            ]
+        },
+        "inStock": true
+    }
+]
